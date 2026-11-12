@@ -21,8 +21,3 @@ A personal always-on dashboard running on a Raspberry Pi touchscreen. Quotes, me
 - **Offline resilient** — media list cached locally so the dashboard survives Pi reboots before the network is up.
 
 ---
-
-## 🛠️ Built with
-
-Pure vanilla HTML, CSS, and JavaScript. No framework, no build step, no dependencies.
-Hosted on [Netlify](https://netlify.com).
